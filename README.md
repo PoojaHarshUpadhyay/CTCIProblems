@@ -1,2 +1,2 @@
-# CTCIProblems
+# CTCI Problems
 solving CTCI problems
